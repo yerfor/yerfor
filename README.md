@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Homepages
+- Personal Pages: [https://yerfor.github.io/en](https://yerfor.github.io/en)
+- Google Scholar: [https://scholar.google.com.hk/citations?user=I1XtkC4AAAAJ&hl](https://scholar.google.com.hk/citations?user=I1XtkC4AAAAJ&hl)
